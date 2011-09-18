@@ -1,4 +1,4 @@
-#summary A listing of all available algorithms and variants being developed by the Center for Domain Specific Computing.
+#summary A listing of all available algorithms and variants. Page will be updated as new optimizations and variants are made available.
 
 = Algorithms =
 
