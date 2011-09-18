@@ -1,0 +1,32 @@
+#summary A listing of all available algorithms and variants being developed by the Center for Domain Specific Computing.
+
+= Algorithms =
+
+==Image Reconstruction==
+  * *EM+TV for Cone-beam CT*
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=emtv3d-c%2B%2B.zip&can=2&q= C++ version] - [http://cdsc-image-processing-pipeline.googlecode.com/files/EMTV%20for%203D%20image%20reconstruction.pdf Documentation (PDF)]
+
+==Image Restoration==
+  * *Rician denoising*
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=rician-denoise-matlab.zip&can=2&q= MATLAB version] - [http://cdsc-image-processing-pipeline.googlecode.com/files/riciandenoise.pdf Documentation (PDF)]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=riciandenoise3mx_yi.c&can=2&q= C version]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=rician-denoise-cnc.zip&can=2&q= Cnc version]
+
+  * *Total variation-based deconvolution (with Poisson and Rician models)*
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=tvdeconvolution.zip&can=2&q= C version] - [http://cdsc-image-processing-pipeline.googlecode.com/files/riciandeconv.pdf Documentation (PDF)]
+
+==Registration==
+  * *Fluid registration*
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=fluidregistration-c%2B%2B.zip&can=2&q= Original C++ version]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=REG_vec_MI.c&can=2&q= Simplified C version]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=REG_vec_MI.hc&can=2&q= Simplified HC version]
+
+==Segmentation==
+  * *Two phase active contours*
+     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=twophaseseg-c%2B%2B.zip&can=2&q= C++ version]
+
+  * *Front propagation*
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=frontpropagation-c.zip&can=2&q= C++ version]
+
+  * *Geodesic Active Contours (ITK)*
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=itk-geodesic-seg-c%2B%2B.zip&can=2&q= Original C++ version (Requires ITK common libraries, see docs)] - [http://cdsc-image-processing-pipeline.googlecode.com/files/README_GAC_itk.txt Documentation (TXT)]
