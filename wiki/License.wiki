@@ -1,4 +1,4 @@
-#summary Licensing information for source code posted on this site.
+#summary Licensing information for source code posted on this site (unless otherwise stated).
 
 =GNU LESSER GENERAL PUBLIC LICENSE=
 Version 3, 29 June 2007
