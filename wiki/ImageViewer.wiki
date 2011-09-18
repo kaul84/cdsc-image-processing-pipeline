@@ -1,0 +1,22 @@
+#summary A Java-based medical image viewer and manipulation tool.
+
+=Overview=
+The CDSC/MII imageViewer is a Java-based medical image viewing application that is written to be a lightweight image manipulation and visualization platform that can be executed for any computer running a Java Virtual Machine. The application has networking capabilities that can be tied to an ImageServer network to pull images from a local area network or a picture archive and communication system (PACS). ImageViewer also has support for the caBIG Annotation Image Markup project, the RSNA MIRC service, and implementation of active contours and front propagation segmentation tools.
+
+The ImageViewer application can be adapted as a testbed for new image processing algorithms as well as integrated into existing Java applications as a robust, integrated image viewer tool. Documentation is provided on how to write a new plugin for the application or how to import project files into an existing application.
+
+=Features=
+Basic image manipulation functionality (window/level, zoom, rotation)
+Advanced layout capabilities (multiple tabs, custom layouts 2x2, 2x4 and side-by-side tabs)
+Support for common medical imaging formats (DICOM, Analyze 7.5, raw images, and visual human dataset (VHD) images)
+Several built-in 2D segmentation algorithms: geodesic active contours, front propagation
+Built-in support for reading/writing Annotation Image Markup
+Built-in access to RSNA Medical Imaging Resource Center (MIRC) query service
+Support for volume rendering using Java3D
+=Requirements=
+Java Virtual Machine Standard Edition 1.6+
+Minimum 256 MB RAM, 512 MB recommended
+=Download=
+Download the ImageViewer Executable Jar
+
+Check out the source files from the project SVN repository
