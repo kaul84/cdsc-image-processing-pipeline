@@ -9,10 +9,10 @@ The [http://www.cdsc.ucla.edu Center for Domain Specific Computing] is developin
 
 As an application area for these developments, the Center is analyzing the domain of medical image processing, which has a high computing demand. MEdical imaging is now a routine and integral clinical tool in the diagnosis and treatment of many conditions, but many advances in this field have been constrained to the research environment due to a lack of computational power. Several medical image processing algorithms are infeasible for real-time clinical use. Power and cost-efficient high-performance computing can have a significant impact on healthcare in terms of preventive medicine (e.g., virtual colonoscopy), diagnostic procedures (e.g., automated tumor volume quantification), and therapeutic procedures (e.g., pre-surgery decision making).
 
-= About this Project =
+== About this Project ==
 
-= What is Available =
+== What is Available ==
 
-= What is Coming =
+== What is Coming ==
 
-= Applications Team =
+== Funding ==
