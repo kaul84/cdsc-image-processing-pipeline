@@ -1,13 +1,18 @@
 #summary An overview of the Center for Domain Specific Computing and this project.
 
-= Introduction =
+= Overview =
 
-Add your content here.
+The [http://www.cdsc.ucla.edu Center for Domain Specific Computing] is developing a methodology and hardware platform with the goal of looking beyond parallelization and focusing on domain-specific customization to bring orders-of-magnitude power-performance efficiency improvement to important application domains. This effort involves both software and hardware innovations that include the development of:
+  * A wide range of customizable computing elements, from heterogeneous fixed cores to coarse-grain customizable cores and fine-grain field-programmable circuit fabrics
+  * High-performance RF-interconnects
+  * Highly automated compilation tools and runtime management systems
 
+As an application area for these developments, the Center is analyzing the domain of medical image processing, which has a high computing demand. MEdical imaging is now a routine and integral clinical tool in the diagnosis and treatment of many conditions, but many advances in this field have been constrained to the research environment due to a lack of computational power. Several medical image processing algorithms are infeasible for real-time clinical use. Power and cost-efficient high-performance computing can have a significant impact on healthcare in terms of preventive medicine (e.g., virtual colonoscopy), diagnostic procedures (e.g., automated tumor volume quantification), and therapeutic procedures (e.g., pre-surgery decision making).
 
-= Details =
+= About this Project =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= What is Available =
+
+= What is Coming =
+
+= Applications Team =
