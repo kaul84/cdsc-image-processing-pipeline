@@ -23,9 +23,9 @@ Algorithms vary from one step to another, requiring different architecture suppo
 == What is Available ==
 
 The initial release consists of three components:
-  * imageViewer: A Java-based medical image viewer that supports basic manipulations, custom layouts, and annotations. Supports DICOM, Analyze 7.5, and RAW formats.
-  * Image processing pipeline plug-in: A plug-in for the above imageViewer that ties together several image processing algorithms (denoising, registration, segmentation) with a front-end graphical user interface.
-  * Individual algorithms: Each algorithm is being released individually along with each variant created (e.g., CUDA, HDL, etc). The goal is to provide interested parties with nontrivial demonstration of how original algorithms implemented in C/MATLAB are optimized and rewritten in Habanero C.
+  * *imageViewer:* A Java-based medical image viewer that supports basic manipulations, custom layouts, and annotations. Supports DICOM, Analyze 7.5, and RAW formats.
+  * *Image processing pipeline plug-in:* A plug-in for the above imageViewer that ties together several image processing algorithms (denoising, registration, segmentation) with a front-end graphical user interface.
+  * *Individual algorithms:* Each algorithm is being released individually along with each variant created (e.g., CUDA, HDL, etc). The goal is to provide interested parties with nontrivial demonstration of how original algorithms implemented in C/MATLAB are optimized and rewritten in Habanero C.
 
 == What is Coming ==
 
