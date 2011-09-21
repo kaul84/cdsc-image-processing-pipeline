@@ -26,7 +26,7 @@
      * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=twophaseseg-c%2B%2B.zip&can=2&q= C++ version]
 
   * *Front propagation*
-    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=frontpropagation-c.zip&can=2&q= C++ version] | [http://www.mii.ucla.edu/~willhsu/static/cdsc-pipeline-poster.2011.pdf Introductory Poster]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=frontpropagation-c.zip&can=2&q= C++ version] | [http://www.mii.ucla.edu/~willhsu/static/cdsc-pipeline-poster-2011.pdf Introductory Poster (PDF)]
 
   * *Geodesic Active Contours (ITK)*
     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=itk-geodesic-seg-c%2B%2B.zip&can=2&q= Original C++ version (Requires ITK common libraries, see documentation)] - [http://cdsc-image-processing-pipeline.googlecode.com/files/README_GAC_itk.txt Documentation (TXT)]
