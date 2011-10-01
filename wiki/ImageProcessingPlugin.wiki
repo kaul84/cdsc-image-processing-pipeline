@@ -2,12 +2,12 @@
 
 = Introduction =
 
-Add your content here.
-
+The image processing pipeline plug-in for imageViewer provides a graphical user interface-based method to interact with a collection of algorithms that have been released [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/IndividualAlgorithms individually here]. The plug-in requires imageViewer.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Download =
+
+= Installation =
+
+= Contact =
