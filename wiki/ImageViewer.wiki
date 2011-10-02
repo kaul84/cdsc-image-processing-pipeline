@@ -23,4 +23,10 @@ The ImageViewer application can be adapted as a testbed for new image processing
 
 Download the ImageViewer Executable Jar
 
-Check out the source files from the project SVN repository
+Check out the source files from the project SVN repository.
+
+{{{
+svn checkout http://cdsc-image-processing-pipeline.googlecode.com/svn/trunk/ cdsc-image-processing-pipeline-read-only
+}}}
+
+The checked out project can be imported into Eclipse. The main method is located in {{{imageviewer.system.ImageViewerClient}}}.
