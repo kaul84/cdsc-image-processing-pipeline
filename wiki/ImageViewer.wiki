@@ -25,7 +25,11 @@ Two methods for obtaining and running the ImageViewer code exists.
 ==Run from Precompiled Archive=
 Download the *[http://cdsc-image-processing-pipeline.googlecode.com/files/imageViewer-2.1.zip ImageViewer distribution package]*.
 
-To run, 
+To run, execute the following command:
+
+{{{java -Xms256m -Xmx1024m -jar imageviewer.jar -nonet}}}
+
+You may also run the application with the {{{-help}}} trigger to list other arguments that you may specify at command line.
 
 ==Compile from Source Code==
 To obtain the latest version of imageViewer, check out the source files from the project SVN repository.
