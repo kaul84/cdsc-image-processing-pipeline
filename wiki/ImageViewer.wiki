@@ -25,6 +25,8 @@ Two methods for obtaining and running the ImageViewer code exists.
 ==Run from Precompiled Archive=
 Download the *[http://cdsc-image-processing-pipeline.googlecode.com/files/imageViewer-2.1.zip ImageViewer distribution package]*.
 
+To run, 
+
 ==Compile from Source Code==
 To obtain the latest version of imageViewer, check out the source files from the project SVN repository.
 
@@ -33,3 +35,5 @@ svn checkout http://cdsc-image-processing-pipeline.googlecode.com/svn/trunk/ cds
 }}}
 
 The checked out project can be imported into Eclipse. The main method is located in {{{imageviewer.system.ImageViewerClient}}}.
+
+You may also compile the code with the included {{{build.xml}}} file using {{{ant}}}. Make sure you properly configure your environment by specifying your {{{JAVA_HOME}}} variable (i.e., path to your Java Virtual Machine).
