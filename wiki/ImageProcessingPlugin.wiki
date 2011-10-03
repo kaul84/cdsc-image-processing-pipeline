@@ -20,7 +20,7 @@ And external libraries:
 
 You will need to set your {{{JAVA_HOME}}} variable to where your Java Virtual Machine base directory is.
 
-NOTE: If you wish to statically link the external library code into the final .dll or .so file for the pipeline, use the flag `-Wl,-Bstatic,-l<libname>,-Bdynamic' instead of just `-l<libname>'.  Specify this flag as part of LDFLAGS in the Makefiles, and not CFLAGS or CXXFLAGS.  This is because there is a gotcha for gcc and g++: their arguments are position dependent.  LDFLAGS is dereferenced in the correct position in the call to gcc and g++, as these linker flags should come last.
+NOTE: If you wish to statically link the external library code into the final .dll or .so file for the pipeline, use the flag {{{-Wl,-Bstatic,-l<libname>,-Bdynamic}}} instead of just {{{-l<libname>}}}.  Specify this flag as part of LDFLAGS in the Makefiles, and not CFLAGS or CXXFLAGS.  This is because there is a gotcha for gcc and g++: their arguments are position dependent.  LDFLAGS is dereferenced in the correct position in the call to gcc and g++, as these linker flags should come last.
 
 ==Compile Code==
   # cd to the project directory, where the build file {{{build.xml}}} resides
