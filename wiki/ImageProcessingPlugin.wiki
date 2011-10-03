@@ -6,7 +6,7 @@ The image processing pipeline plug-in for imageViewer provides a graphical user 
 
 = Download =
 
-You may download a version of imageViewer with the plugin already integrated by *[http://cdsc-image-processing-pipeline.googlecode.com/files/imageviewer-v2.1-w-pipeline.zip clicking here]*.
+A version of imageViewer with the plugin already integrated can be downloaded by *[http://cdsc-image-processing-pipeline.googlecode.com/files/imageviewer-v2.1-w-pipeline.zip clicking here]*.
 
 = Instructions =
 
