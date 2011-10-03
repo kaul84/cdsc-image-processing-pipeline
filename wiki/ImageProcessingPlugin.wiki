@@ -6,6 +6,8 @@ The image processing pipeline plug-in for imageViewer provides a graphical user 
 
 = Download =
 
+You may download a version of imageViewer with the plugin already integrated by *[http://cdsc-image-processing-pipeline.googlecode.com/files/imageviewer-v2.1-w-pipeline.zip clicking here]*.
+
 = Instructions =
 
 ==Pre-compilation Steps==
@@ -29,3 +31,6 @@ NOTE: If you wish to statically link the external library code into the final .d
 
 ==Execute Code==
 In the command line prompt, execute {{{java -Djava.library.path=<system library path in case pipeline object needs to load external libraries>:build/imageviewer/src/imageviewer/tools/plugins/cdsc/native -classpath build/imageviewer/imageviewer.jar imageviewer.system.ImageViewerClient}}}
+
+=Running the Plugin=
+Once you have compiled the pipeline code and started imageViewer, you can pull up the plugin graphical user interface by going to Tools, Plugins, and select CDSC Imaging Pipeline.
