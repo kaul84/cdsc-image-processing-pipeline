@@ -17,7 +17,7 @@ The ImageViewer application can be adapted as a testbed for new image processing
   * Minimum 256 MB RAM, 512 MB recommended
 
 =Download=
-Two methods for obtaining and running the ImageViewer code exists.
+Two methods are available for obtaining and running the standalone ImageViewer code. If you are looking for the image processing pipeline, you can download a version of imageViewer with the pipeline pre-integrated [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/ImageProcessingPlugin here].
 
 ==Run from Precompiled Archive=
 Download the *[http://cdsc-image-processing-pipeline.googlecode.com/files/imageViewer-2.1.zip ImageViewer distribution package]*.
