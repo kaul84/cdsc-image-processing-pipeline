@@ -6,7 +6,7 @@ The image processing pipeline plug-in for imageViewer provides a graphical user 
 
 For the initial release, we have pre-integrated the plugin to a modified version of the imageViewer distributable. In subsequent releases, we will make the plugin available separately with instructions on how to install the plugin with the latest version of the imageViewer application available [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/ImageViewer here].
 
-The following algorithms have been incorporated into the image processing plugin:
+The following algorithms have been included as part of the image processing plugin:
   * Rician denoising
   * Rician deblurring
   * Fluid registration
