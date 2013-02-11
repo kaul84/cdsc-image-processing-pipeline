@@ -24,7 +24,7 @@
 
 ==Segmentation==
   * *Two phase active contours*
-     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=twophaseseg-c%2B%2B.zip&can=2&q= C++ version]
+     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=twophaseseg-c%2B%2B.zip&can=2&q= C++ version] | [http://cdsc-image-processing-pipeline.googlecode.com/files/activecontours-ieee2001.pdf Paper (PDF)]
 
   * *Front propagation*
     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=frontpropagation-c.zip&can=2&q= C++ version] | [http://www.mii.ucla.edu/~willhsu/static/cdsc-pipeline-poster-2011.pdf Introductory Poster (PDF)]
