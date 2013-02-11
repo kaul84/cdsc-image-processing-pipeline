@@ -17,6 +17,7 @@
 
 ==Registration==
   * *Fluid registration*
+    * [http://cdsc-image-processing-pipeline.googlecode.com/files/Fluid%20Registration.pdf Overview of Algorithm (PDF)]
     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=fluidregistration-c%2B%2B.zip&can=2&q= Original C++ version]
     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=REG_vec_MI.c&can=2&q= Simplified C version]
     * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=REG_vec_MI.hc&can=2&q= Simplified HC version]
