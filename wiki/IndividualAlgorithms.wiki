@@ -4,7 +4,7 @@
 
 ==Image Reconstruction==
   * *EM+TV for Cone-beam CT*
-    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=emtv3d-c%2B%2B.zip&can=2&q= C++ version] - [http://cdsc-image-processing-pipeline.googlecode.com/files/EMTV%20for%203D%20image%20reconstruction.pdf Documentation (PDF)]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/detail?name=emtv3d-c%2B%2B.zip&can=2&q= C version (v1)] - [http://cdsc-image-processing-pipeline.googlecode.com/files/EMTV%20for%203D%20image%20reconstruction.pdf Documentation (PDF)]
 
 ==Image Restoration==
   * *Rician denoising*
