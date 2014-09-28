@@ -1,0 +1,23 @@
+#summary Initial release of tools and algorithms related to 3D medical image processing.
+
+<table style="width: 100%">
+	<tr>
+		<td style="width: 363px">
+		<img alt="screenshot" height="559" src="http://www.mii.ucla.edu/~willhsu/static/screenshot.png" width="449" /></td>
+		<td valign="top">
+= Contents =
+  * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/About About]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/ImageViewer ImageViewer]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/ImageProcessingPlugin Image Processing Pipeline Plugin]
+    * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/IndividualAlgorithms Algorithms]
+  * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/list Downloads]
+  * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/License License]
+
+= Additional Resources =
+  * Information about the architecture of the image processing pipeline has been presented in a recent [http://www.mii.ucla.edu/~willhsu/static/cdsc-pipeline-poster-2010.pdf poster (PDF)].
+
+= Contact =
+We welcome the community's input on the released software and algorithms. You may direct any questions, comments, or suggestions that you may have about the released applications and source code to [mailto:willhsu@mii.ucla.edu William Hsu].
+</td>
+	</tr>
+</table>
