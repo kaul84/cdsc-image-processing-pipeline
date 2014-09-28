@@ -1,4 +1,5 @@
 #summary Initial release of tools and algorithms related to 3D medical image processing.
+#labels Featured
 
 <table style="width: 100%">
 	<tr>
