@@ -1,6 +1,8 @@
 #summary Initial release of tools and algorithms related to 3D medical image processing.
 #labels Featured
 
+= Medical Imaging Benchmark 1: Pulmonary Nodule Volumetric Analysis =
+
 <table style="width: 100%">
 	<tr>
 		<td style="width: 363px">
@@ -13,6 +15,9 @@
     * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/IndividualAlgorithms Algorithms]
   * [http://code.google.com/p/cdsc-image-processing-pipeline/downloads/list Downloads]
   * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/License License]
+
+= Disclaimer =
+The above algorithms have been made available "as-is" and are meant to provide representative examples of current image processing techniques that are being developed in a research environment. The algorithms are neither validated nor certified to be used for primary diagnostic imaging used in clinical workflow and/or patient care.
 
 = Additional Resources =
   * Information about the architecture of the image processing pipeline has been presented in a recent [http://www.mii.ucla.edu/~willhsu/static/cdsc-pipeline-poster-2010.pdf poster (PDF)].
