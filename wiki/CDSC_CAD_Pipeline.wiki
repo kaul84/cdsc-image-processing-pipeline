@@ -1,4 +1,5 @@
 #summary Second release of tools and algorithms related to 3D medical image processing with a focus application of adaptive image reconstruction and nodule detection.
+#labels Featured
 
 = Introduction =
 
