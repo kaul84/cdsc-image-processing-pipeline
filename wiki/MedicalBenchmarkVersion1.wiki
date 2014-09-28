@@ -7,7 +7,7 @@
 		<td style="width: 363px">
 		<img alt="screenshot" height="559" src="http://www.mii.ucla.edu/~willhsu/static/screenshot.png" width="449" /></td>
 		<td valign="top">
-= Benchmark 1: Pulmonary Nodule Volumetric Analysis =
+= Medical Imaging Benchmark, Release 1 =
 == Contents ==
   * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/About About]
     * [http://code.google.com/p/cdsc-image-processing-pipeline/wiki/ImageViewer ImageViewer]
