@@ -21,21 +21,21 @@ Add your content here.
 			<td>--</td>
 			<td><a href="https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215433&authkey=ABTKtsWOzbRvoHY">Download</a></td>
 			<td>--</td>
-			<td>* Use the provided sinogram dataset below, see readme.txt for instructions</td>
+			<td>  * Use the provided sinogram dataset below, see readme.txt for instructions</td>
 		</tr>
 		<tr>
 			<td>Segmentation</td>
 			<td><a href="https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215430&authkey=ADBk2EFstC0nkqE">Download</a></td>
 			<td>--</td>
 			<td>--</td>
-			<td>* Use the provided reconstructed dataset below</td>
+			<td>  * Use the provided reconstructed dataset below</td>
 		</tr>
 		<tr>
 			<td>Detection</td>
 			<td><a href="https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215429&authkey=AH998_6f2EhqqyY">Download</a></td>
 			<td>--</td>
 			<td>--</td>
-			<td>* Use the provided reconstructed dataset below</td>
+			<td>  * Use the provided reconstructed dataset below</td>
 		</tr>
 	</tbody>
 </table>
