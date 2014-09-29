@@ -50,7 +50,7 @@ Add your content here.
 		</tr>
 		<tr>
 			<td>Low-dose CT Sinogram Data (Patient 1)</td>
-			<td>Download</td>
+			<td>[https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215434&authkey=ABgep3UHXi6as04 Download]</td>
 			<td>* File is 2.8Gb uncompressed</td>
 		</tr>
 		<tr>
