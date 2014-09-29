@@ -7,7 +7,7 @@ Add your content here.
 
 = Algorithms =
 
-<table border="0" cellpadding="4" cellspacing="4" style="width:100%">
+<table border="1" cellpadding="4" cellspacing="2" style="width:100%">
 	<tbody>
 		<tr>
 			<td>&nbsp;</td>
@@ -18,7 +18,7 @@ Add your content here.
 		</tr>
 		<tr>
 			<td>EM+TV v2.0</td>
-			<td><span style="line-height:20.7999992370605px">-</span>-</td>
+			<td>--</td>
 			<td><a href="http://1drv.ms/1vohVAz">Download</a></td>
 			<td>--</td>
 			<td>* Use the provided sinogram dataset below, see readme.txt for instructions</td>
@@ -36,6 +36,27 @@ Add your content here.
 			<td>--</td>
 			<td>--</td>
 			<td>* Use the provided reconstructed dataset below</td>
+		</tr>
+	</tbody>
+</table>
+
+= Datasets =
+<table border="1" cellpadding="4" cellspacing="2" style="width:100%">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>Link</td>
+			<td>Notes</td>
+		</tr>
+		<tr>
+			<td>Low-dose CT Sinogram Data (Patient 1)</td>
+			<td>Download</td>
+			<td>* File is 2.8Gb uncompressed</td>
+		</tr>
+		<tr>
+			<td>Low-dose CT FBP Reconstructed (Patient 1)</td>
+			<td><a href="http://1drv.ms/1voicU6">Download</a></td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
