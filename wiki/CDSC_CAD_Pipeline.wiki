@@ -3,7 +3,7 @@
 
 = Introduction =
 
-The second medical imaging benchmark is related to an adaptive approach to pulmonary nodule detection. The objective is to enable lung nodule screening utilizing an adaptive low-dose computed tomography (CT) method for image acquisition to:
+The second medical imaging benchmark explores a novel approach towards lung nodule screening that utilizes an adaptive low-dose computed tomography (CT) method for image acquisition to:
   # reduce the amount of radiation given to a patient during a potential image screening exam; and
   # provide real-time characterization of suspicious nodules that warrant further examination and follow-up.
 
