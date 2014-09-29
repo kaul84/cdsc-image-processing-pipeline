@@ -49,7 +49,7 @@ A description of the pipeline can be [http://www.mii.ucla.edu/~willhsu/static/CD
 <table border="1" cellpadding="4" cellspacing="2" style="width:100%">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
+			<td>/td>
 			<td>Link</td>
 			<td>Notes</td>
 		</tr>
