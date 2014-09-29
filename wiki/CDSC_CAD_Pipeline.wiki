@@ -27,7 +27,7 @@ A description of the pipeline can be [http://www.mii.ucla.edu/~willhsu/static/CD
 			<td>--</td>
 			<td><a href="https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215433&authkey=ABTKtsWOzbRvoHY">Download</a></td>
 			<td>--</td>
-			<td>  * Use the provided sinogram dataset below, see readme.txt for instructions</td>
+			<td>Use the provided sinogram dataset below, see readme.txt for instructions</td>
 		</tr>
 		<tr>
 			<td>Segmentation</td>
@@ -41,7 +41,7 @@ A description of the pipeline can be [http://www.mii.ucla.edu/~willhsu/static/CD
 			<td><a href="https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215429&authkey=AH998_6f2EhqqyY">Download</a></td>
 			<td>--</td>
 			<td>--</td>
-			<td>  * Use the provided reconstructed dataset below</td>
+			<td>Use the provided reconstructed dataset below</td>
 		</tr>
 	</tbody>
 </table>
@@ -57,7 +57,7 @@ A description of the pipeline can be [http://www.mii.ucla.edu/~willhsu/static/CD
 		<tr>
 			<td>Low-dose CT Sinogram Data (Patient 1)</td>
 			<td>[https://onedrive.live.com/download?cid=9CE3D2200742EE14&resid=9CE3D2200742EE14%215434&authkey=ABgep3UHXi6as04 Download]</td>
-			<td>* File is 2.8Gb uncompressed</td>
+			<td>File is 2.8Gb uncompressed</td>
 		</tr>
 		<tr>
 			<td>Low-dose CT FBP Reconstructed (Patient 1)</td>
