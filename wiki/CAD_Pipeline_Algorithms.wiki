@@ -5,9 +5,37 @@
 Add your content here.
 
 
-= Details =
+= Algorithms =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<table border="0" cellpadding="4" cellspacing="4" style="width:100%">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>MATLAB</td>
+			<td>C</td>
+			<td>FPGA</td>
+			<td>Notes</td>
+		</tr>
+		<tr>
+			<td>EM+TV v2.0</td>
+			<td><span style="line-height:20.7999992370605px">-</span>-</td>
+			<td><a href="http://1drv.ms/1vohVAz">Download</a></td>
+			<td>--</td>
+			<td>* Use the provided sinogram dataset below, see readme.txt for instructions</td>
+		</tr>
+		<tr>
+			<td>Segmentation</td>
+			<td><a href="http://1drv.ms/1voi6vt">Download</a></td>
+			<td>--</td>
+			<td>--</td>
+			<td>* Use the provided reconstructed dataset below</td>
+		</tr>
+		<tr>
+			<td>Detection</td>
+			<td><a href="http://1drv.ms/1voi8nc">Download</a></td>
+			<td>--</td>
+			<td>--</td>
+			<td>* Use the provided reconstructed dataset below</td>
+		</tr>
+	</tbody>
+</table>
