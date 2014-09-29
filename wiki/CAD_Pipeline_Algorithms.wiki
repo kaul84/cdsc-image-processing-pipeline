@@ -10,8 +10,6 @@ First, a “low dose” imaging study is performed and a real-time CT image reco
 
 A description of the pipeline can be [http://www.mii.ucla.edu/~willhsu/static/CDSC_AdaptivePipelineBenchmark.pdf found here].
 
-You can findof the pipeline are being released as they are developed.
-
 = Algorithms =
 
 <table border="1" cellpadding="4" cellspacing="2" style="width:100%">
