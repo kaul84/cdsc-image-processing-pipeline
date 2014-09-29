@@ -2,8 +2,15 @@
 
 = Introduction =
 
-Add your content here.
+The second medical imaging benchmark is related to an adaptive approach to pulmonary nodule detection. The objective is to enable lung nodule screening utilizing an adaptive low-dose computed tomography (CT) method for image acquisition to:
+  # reduce the amount of radiation given to a patient during a potential image screening exam; and
+  # provide real-time characterization of suspicious nodules that warrant further examination and follow-up.
 
+First, a “low dose” imaging study is performed and a real-time CT image reconstruction algorithm is employed to generate image data. Next, from the image data, a computer-aided detection (CAD) system automatically provides the user (e.g., technologists, radiologists) with immediate feedback about the presence of likely nodules, and suggests regions of interest (ROIs) to scan at a higher resolution. Lastly, for the different ROIs involving detected nodules, the user selects higher-resolution CT scan parameters, and only those areas are rescanned in the patient for diagnosis and clinical interpretation.
+
+A description of the pipeline can be [http://www.mii.ucla.edu/~willhsu/static/CDSC_AdaptivePipelineBenchmark.pdf found here].
+
+You can findof the pipeline are being released as they are developed.
 
 = Algorithms =
 
