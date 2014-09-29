@@ -10,7 +10,7 @@ Add your content here.
 <table border="1" cellpadding="4" cellspacing="2" style="width:100%">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
+			<td></td>
 			<td>MATLAB</td>
 			<td>C</td>
 			<td>FPGA</td>
