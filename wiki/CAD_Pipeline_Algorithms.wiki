@@ -55,7 +55,7 @@ Add your content here.
 		</tr>
 		<tr>
 			<td>Low-dose CT FBP Reconstructed (Patient 1)</td>
-			<td><a href="http://1drv.ms/1voicU6">Download</a></td>
+			<td><a href="http://1drv.ms/1vqvA95">Download</a></td>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>
